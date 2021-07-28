@@ -9,3 +9,13 @@ h1{ font-size: 48px;
     ;
 
 }
+
+.text-color{ color: #E76F51;
+
+}
+
+
+    .grayscale {
+        filter: grayscale(100%);
+        -webkit-filter: grayscale(100%);
+}
