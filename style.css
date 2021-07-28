@@ -1,3 +1,12 @@
+
+
+
+body{ 
+
+}
+
+
+
 .header-section{ background-color: #264653;
 
 
@@ -11,6 +20,7 @@ h1{ font-size: 48px;
 }
 
 .text-color{ color: #E76F51;
+    
 
 }
 
@@ -18,4 +28,8 @@ h1{ font-size: 48px;
     .grayscale {
         filter: grayscale(100%);
         -webkit-filter: grayscale(100%);
+}
+
+.font-li{ background-color: yellow; 
+
 }
