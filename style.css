@@ -33,3 +33,10 @@ h1{ font-size: 48px;
 .font-li{ background-color: yellow; 
 
 }
+
+.client-section{ display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 35px;
+
+}
